@@ -1,6 +1,6 @@
 <!-- Typing Intro Animation -->
 <p align="center">
-  <a href="https://github.com/SalimAkbar">
+  <a href="https://github.com/salimakbar-dev">
     <img src="https://readme-typing-svg.herokuapp.com?font=Fira+Code&size=28&duration=2800&pause=1000&color=00FFC8&center=true&vCenter=true&width=600&lines=Hi+%F0%9F%91%8B%2C+I'm+Salim+Akbar;Frontend+Web+Developer;HTML+%7C+CSS+%7C+JavaScript;React.js+%7C+TailwindCSS+%7C+Sass;Crafting+Modern+%26+Responsive+UI" alt="Typing Animation" />
   </a>
 </p>
