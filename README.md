@@ -1,63 +1,61 @@
-<!-- Centered Greeting with Typing Animation -->
+<!-- Typing Animation (Neon Green) -->
 <p align="center">
   <a href="https://github.com/SalimAkbar">
-    <img src="https://readme-typing-svg.herokuapp.com?font=Fira+Code&weight=600&size=28&pause=1000&color=32CD32&center=true&vCenter=true&width=600&lines=Hi+%F0%9F%91%8B%2C+I'm+Salim+Akbar;Frontend+Web+Developer;React.js+%7C+TailwindCSS+%7C+JavaScript;I+build+clean+UI+%26+smooth+UX" alt="Typing SVG" />
+    <img src="https://readme-typing-svg.herokuapp.com?font=Fira+Code&weight=600&size=28&pause=1000&color=00FFAA&center=true&vCenter=true&width=600&lines=Hi+👋,+I'm+Salim+Akbar;Frontend+Web+Developer;HTML+%7C+CSS+%7C+JavaScript;React.js+%7C+TailwindCSS;Crafting+Modern+Web+Experiences" alt="Typing SVG" />
   </a>
 </p>
 
-<!-- Banner / Hero GIF -->
+<!-- Neon Glow Banner -->
 <p align="center">
-  <img src="https://media.giphy.com/media/qgQUggAC3Pfv687qPC/giphy.gif" width="520" alt="coding gif"/>
-</p>
-
-<!-- Quick Badges -->
-<p align="center">
-  <a href="mailto:youremail@example.com"><img src="https://img.shields.io/badge/Email-Contact-32CD32?style=for-the-badge&logo=gmail&logoColor=white" /></a>
-  <a href="https://linkedin.com/in/your-linkedin"><img src="https://img.shields.io/badge/LinkedIn-Connect-0A66C2?style=for-the-badge&logo=linkedin&logoColor=white" /></a>
-  <img src="https://komarev.com/ghpvc/?username=SalimAkbar&label=Profile%20Views&color=blue&style=for-the-badge" alt="views" />
+  <img src="https://media.giphy.com/media/L8K62iTDkzGX6/giphy.gif" width="520" alt="Frontend Developer" style="border-radius:10px;" />
 </p>
 
 ---
 
-## 🚀 About Me
-- 💻 Frontend dev focused on **beautiful, responsive** web apps  
-- ⚛️ Stack: **HTML, CSS, JavaScript, React.js, Tailwind CSS**  
-- 🎯 I love **clean code**, component-driven UI, and micro-interactions  
-- 🌱 Learning: **Next.js**, performance & accessibility
+## 💡 About Me
+🌟 **Frontend Web Developer** passionate about creating sleek, fast, and fully responsive websites.  
+⚡ Love working with **React.js & Tailwind CSS** to bring designs to life.  
+🎯 Strong in **UI/UX**, animations, and performance optimization.  
+🌱 Currently learning **Next.js** for building modern full-stack apps.  
 
 ---
 
-## 🛠️ Tech & Tools
+## 🛠 My Tech Arsenal
 <p align="center">
-  <img src="https://skillicons.dev/icons?i=html,css,js,react,tailwind,vite,git,github,vscode,figma" />
+  <img src="https://skillicons.dev/icons?i=html,css,js,react,tailwind,vite,git,github,figma,vscode&theme=dark" />
 </p>
 
 ---
 
-## 📈 GitHub Insights
+## 📊 GitHub Analytics
 <p align="center">
-  <img height="165" src="https://github-readme-stats.vercel.app/api?username=SalimAkbar&show_icons=true&theme=tokyonight&hide_border=true" alt="stats"/>
-  <img height="165" src="https://github-readme-streak-stats.herokuapp.com?user=SalimAkbar&theme=tokyonight&hide_border=true" alt="streak"/>
+  <img height="165" src="https://github-readme-stats.vercel.app/api?username=SalimAkbar&show_icons=true&theme=tokyonight&hide_border=true&title_color=00FFAA&icon_color=00FFAA" alt="stats"/>
+  <img height="165" src="https://github-readme-streak-stats.herokuapp.com?user=SalimAkbar&theme=tokyonight&hide_border=true&ring=00FFAA&fire=00FFAA&currStreakLabel=00FFAA" alt="streak"/>
 </p>
 
 <p align="center">
-  <img height="165" src="https://github-readme-stats.vercel.app/api/top-langs/?username=SalimAkbar&layout=compact&theme=tokyonight&hide_border=true" alt="top langs"/>
+  <img height="165" src="https://github-readme-stats.vercel.app/api/top-langs/?username=SalimAkbar&layout=compact&theme=tokyonight&hide_border=true&title_color=00FFAA" alt="top langs"/>
 </p>
 
 ---
 
-## 🧩 Featured Projects
-> ⭐ Pin your repos for quick access (go to repo → **Pin**)
-
-- 🎨 **UI Components Kit (React + Tailwind)** — Reusable components for dashboards  
-- ⚡ **Fast Todo App** — React hooks, localStorage, keyboard shortcuts  
-- 🌐 **Portfolio Template** — Responsive, SEO-friendly, deploy-ready
+## 🚀 Featured Projects
+- 🎨 **React + Tailwind UI Components** — Reusable, beautiful UI blocks  
+- ⚡ **Fast Todo App** — Smooth animations & localStorage  
+- 🌐 **Portfolio Website** — Fully responsive, SEO-ready  
 
 ---
 
-## 🤝 Let’s Connect
+## 📬 Let's Connect
 <p align="center">
-  <a href="https://linkedin.com/in/your-linkedin"><img src="https://img.shields.io/badge/LinkedIn-0A66C2?style=for-the-badge&logo=linkedin&logoColor=white"/></a>
-  <a href="mailto:youremail@example.com"><img src="https://img.shields.io/badge/Gmail-32CD32?style=for-the-badge&logo=gmail&logoColor=white"/></a>
+  <a href="mailto:youremail@example.com"><img src="https://img.shields.io/badge/Email-00FFAA?style=for-the-badge&logo=gmail&logoColor=black" /></a>
+  <a href="https://linkedin.com/in/your-linkedin"><img src="https://img.shields.io/badge/LinkedIn-00FFAA?style=for-the-badge&logo=linkedin&logoColor=black" /></a>
+  <a href="https://github.com/SalimAkbar"><img src="https://img.shields.io/badge/GitHub-00FFAA?style=for-the-badge&logo=github&logoColor=black" /></a>
 </p>
 
+---
+
+<!-- Animated Wave Footer -->
+<p align="center">
+  <img src="https://capsule-render.vercel.app/api?type=waving&color=00FFAA&height=120&section=footer"/>
+</p>
