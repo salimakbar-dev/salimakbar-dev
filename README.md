@@ -53,9 +53,9 @@
 
 ## 📬 Connect With Me
 <p align="center">
-  <a href="mailto:salimakbar5221@gmail.com">
-    <img src="https://img.shields.io/badge/Email-00FFC8?style=for-the-badge&logo=gmail&logoColor=black" alt="Email"/>
-  </a>
+  <a href="https://mail.google.com/mail/?view=cm&fs=1&to=salimakbar5221@gmail.com">
+  <img src="https://img.shields.io/badge/Email-00FFC8?style=for-the-badge&logo=gmail&logoColor=black" alt="Email"/>
+</a>
   <a href="https://www.linkedin.com/in/salim-akbar">
     <img src="https://img.shields.io/badge/LinkedIn-00FFC8?style=for-the-badge&logo=linkedin&logoColor=black" alt="LinkedIn"/>
   </a>
