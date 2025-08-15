@@ -12,7 +12,7 @@
 
 <!-- Hero Banner GIF -->
 <p align="center">
-  <img src="https://media.giphy.com/media/qgQUggAC3Pfv687qPC/giphy.gif" width="520" alt="Frontend Developer Animation" />
+  <img src="https://media.giphy.com/media/qgQUggAC3Pfv687qPC/giphy.gif" width="320" alt="Frontend Developer Animation" />
 </p>
 
 ---
